@@ -1,0 +1,89 @@
+/*************************************************新增管理控件样式-begin************************************/
+/*设置窗口样式-begin*/
+
+#VersionChecker2Class{
+	min-width:800px;
+	min-height:600px;
+	max-width:800px;
+	max-height:600px;
+	background-color:#d7dcdd;
+	border:1px solid #090909;
+}
+
+
+#VersionChecker2Class #pushButton{
+	background-color:#e0e0e0;	
+	border-width: 1px;	
+	border-color: #2561be;
+	border-style: inset;
+	padding-left: 12px;
+	padding-right: 12px;
+	width: 80px;
+	height: 25px;
+	font: 12px;}
+#VersionChecker2Class #pushButton:hover{background-color: #cfe6ef;} 
+#VersionChecker2Class #pushButton:pressed{background-color: #accddb;}
+
+
+#VersionChecker2Class #frame_3
+{
+	background-color: #1d4281;
+}
+
+#VersionChecker2Class #frame_3 QPushButton
+{
+	width:30px;
+	height:30px;
+}
+
+#VersionChecker2Class #frame_3 QLabel
+{
+	font: bold 12px;
+	color:white;
+}
+
+#VersionChecker2Class #pushButton_3{
+	border-image:url(data/images/addframe/close-30.png);
+}
+
+#VersionChecker2Class #pushButton_3:hover{
+	border-image:url(data/images/addframe/close-30-hover.png);
+}
+
+#VersionChecker2Class #pushButton_3:pressed{
+	border-image:url(data/images/addframe/close-30-press.png);
+}
+
+#VersionChecker2Class #pushButton_2{
+	border-image:url(data/images/addframe/min-30.png);
+}
+
+#VersionChecker2Class #pushButton_2:hover{
+	border-image:url(data/images/addframe/min-30-hover.png);
+}
+
+#VersionChecker2Class #pushButton_2:pressed{
+	border-image:url(data/images/addframe/min-30-press.png);
+}
+
+#VersionChecker2Class #pushButton_4{
+	border-image:url(data/images/addframe/guan yu.png);
+}
+
+#VersionChecker2Class #pushButton_4:hover{
+	border-image:url(data/images/addframe/guan yu hover.png);
+}
+
+#VersionChecker2Class #pushButton_4:pressed{
+	border-image:url(data/images/addframe/guan yu press.png);
+}
+
+#frame{
+	background-color:#ffffff;
+	border-radius:3px
+	border:1px solid #090909;
+}
+
+/*设置窗口样式-end*/
+
+/*************************************************新增管理控件样式-end************************************/

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<S1711>
+    <teacher_list>
+        <teacher>../WindowsNoEditor/SimulatorNet.exe,1.0.0.0</teacher>
+        <teacher>../WindowsNoEditor/teacher.exe,1.0.0.1</teacher>
+        <teacher>../WindowsNoEditor/de.exe,1.0.0.1</teacher>
+        <teacher>../WindowsNoEditor/des.exe,1.0.0.1</teacher>
+    </teacher_list>
+    <student_list>
+        <student>../WindowsNoEditor/d.exe,1.0.0.1</student>
+        <student>../WindowsNoEditor/d.exe,1.0.0.1</student>
+        <student>../WindowsNoEditor/d.exe,1.0.0.1</student>
+        <student>../WindowsNoEditor/d.exe,1.0.0.1</student>
+        <student>../WindowsNoEditor/d.exe,1.0.0.1</student>
+        <student>../WindowsNoEditor/d.exe,1.0.0.1</student>
+        <student>../WindowsNoEditor/d.exe,1.0.0.1</student>
+        <student>../WindowsNoEditor/d.exe,1.0.0.1</student>
+    </student_list>
+</S1711>
